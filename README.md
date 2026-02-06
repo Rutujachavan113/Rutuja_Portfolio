@@ -7,7 +7,7 @@ The website highlights projects, skills, resume, and contact information in a cl
 
 🚀 Live Demo
 
-🔗 https://rutuja-chavan.netlify.app/
+🔗 https://chavan-rutuja-portfolio.netlify.app/
 
 🛠️ Technologies Used
 
